@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/gilbflima" target="blank"><img src="https://img.shields.io/twitter/follow/gilbflima?logo=twitter&style=for-the-badge" alt="gilbflima" /></a> </p>
 
-- 🌱 I’m currently learning web development at [RocketSeat.com with the Explorer Program](https://github.com/gilbflima/Explorer)
+- 🌱 I’m currently learning web development at [RocketSeat.com with the Explorer Program](https://rocketseat.com.br)
 
 - 💬 Ask me about **anything**
 
